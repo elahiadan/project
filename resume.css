@@ -12,7 +12,7 @@ body{
 .container{
     border: 1px solid black;
     width: 800px;
-    height: 900px;
+    height: 100%;
     margin: auto;
     background-color: rgb(247, 243, 247);
     border-radius: 20px;
@@ -50,6 +50,66 @@ body{
     margin-left: 81px;
     margin-top: 30px;
     /* background-color: teal; */
+}
+
+.Experience{
+    width: 700px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+    /* background-color: teal; */
+}
+
+.Experience ul{
+    padding: 5px;
+
+}
+
+.Experience li{
+    /* list-style: none; */
+    font-size: 14px;
+    padding-top: 3px;
+    margin-left: 40px;
+}
+
+.knowledge{
+    width: 700px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 45px;
+    /* background-color: teal; */
+}
+
+.knowledge ul{
+    padding: 5px;
+
+}
+
+.knowledge li{
+    /* list-style: none; */
+    font-size: 14px;
+    padding-top: 3px;
+    margin-left: 40px;
+}
+
+.certificate{
+    width: 700px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 110px;
+    /* background-color: teal; */
+}
+
+.certificate ul{
+    padding: 5px;
+
+}
+
+.certificate li{
+    /* list-style: none; */
+    font-size: 14px;
+    padding-top: 3px;
+    margin-left: 40px;
 }
 
 .acadmy{
@@ -94,7 +154,7 @@ body{
 
 .Project{
     width: 700px;
-    height: 220px;
+    height: 150px;
     margin-left: 50px;
     margin-top: 10px;
     /* background-color: teal; */
@@ -105,6 +165,25 @@ body{
 }
 
 .Project li{
+    /* list-style: none; */
+    font-size: 14px;
+    padding-top: 3px;
+    margin-left: 40px;
+}
+
+.my-Project{
+    width: 700px;
+    height: 185px;
+    margin-left: 50px;
+    margin-top: 10px;
+    /* background-color: teal; */
+}
+
+.my-Project ul{
+    padding: 5px;
+}
+
+.my-Project li{
     /* list-style: none; */
     font-size: 14px;
     padding-top: 3px;
